@@ -55,5 +55,6 @@ The system replaces manual attendance taking with a structured digital solution.
 ---
 
 ## Author
-Annor James Teye
-Index Number 01241024D
+William Kofi Senoo
+01241653D
+
